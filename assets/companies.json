@@ -1,0 +1,84 @@
+{
+    "companies": [
+        {
+            "id": 0,
+            "name": "Abernathy, Hagenes and Grimes"
+        },
+        {
+            "id": 1,
+            "name": "Crona - Jerde"
+        },
+        {
+            "id": 2,
+            "name": "Bradtke - Jaskolski"
+        },
+        {
+            "id": 3,
+            "name": "McCullough, Gusikowski and Miller"
+        },
+        {
+            "id": 4,
+            "name": "Abbott - Daniel"
+        },
+        {
+            "id": 5,
+            "name": "Williamson - Walsh"
+        },
+        {
+            "id": 6,
+            "name": "Wyman Group"
+        },
+        {
+            "id": 7,
+            "name": "Wilderman - Kerluke"
+        },
+        {
+            "id": 8,
+            "name": "Luettgen, McClure and Graham"
+        },
+        {
+            "id": 9,
+            "name": "Lynch, Batz and Mohr"
+        },
+        {
+            "id": 10,
+            "name": "Murray - Luettgen"
+        },
+        {
+            "id": 11,
+            "name": "Johns - Lind"
+        },
+        {
+            "id": 12,
+            "name": "Bergnaum - Harris"
+        },
+        {
+            "id": 13,
+            "name": "Buckridge and Sons"
+        },
+        {
+            "id": 14,
+            "name": "Greenholt, Kerluke and Cormier"
+        },
+        {
+            "id": 15,
+            "name": "Dickens and Sons"
+        },
+        {
+            "id": 16,
+            "name": "Glover, Becker and Labadie"
+        },
+        {
+            "id": 17,
+            "name": "Metz, Bahringer and Bartoletti"
+        },
+        {
+            "id": 18,
+            "name": "McLaughlin Group"
+        },
+        {
+            "id": 19,
+            "name": "Hahn - Hackett"
+        }
+    ]
+}

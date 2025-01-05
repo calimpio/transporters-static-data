@@ -1,0 +1,79 @@
+{
+    "resources": [
+        {
+            "id": 0,
+            "name": "Practical Cotton Table",
+            "mass": 65.76
+        },
+        {
+            "id": 1,
+            "name": "Practical Rubber Mouse",
+            "mass": 80.61
+        },
+        {
+            "id": 2,
+            "name": "Refined Concrete Pizza",
+            "mass": 158.39
+        },
+        {
+            "id": 3,
+            "name": "Sleek Steel Bacon",
+            "mass": 131.35
+        },
+        {
+            "id": 4,
+            "name": "Generic Cotton Chair",
+            "mass": 180.94
+        },
+        {
+            "id": 5,
+            "name": "Handmade Metal Chair",
+            "mass": 151.29
+        },
+        {
+            "id": 6,
+            "name": "Incredible Cotton Shoes",
+            "mass": 74.66
+        },
+        {
+            "id": 7,
+            "name": "Intelligent Plastic Pizza",
+            "mass": 155.06
+        },
+        {
+            "id": 8,
+            "name": "Intelligent Fresh Table",
+            "mass": 102.19
+        },
+        {
+            "id": 9,
+            "name": "Oriental Metal Chicken",
+            "mass": 171.32
+        },
+        {
+            "id": 10,
+            "name": "Fantastic Granite Fish",
+            "mass": 89.82
+        },
+        {
+            "id": 11,
+            "name": "Gorgeous Wooden Towels",
+            "mass": 89.46
+        },
+        {
+            "id": 12,
+            "name": "Unbranded Frozen Mouse",
+            "mass": 182.97
+        },
+        {
+            "id": 13,
+            "name": "Unbranded Rubber Chair",
+            "mass": 9.03
+        },
+        {
+            "id": 14,
+            "name": "Licensed Plastic Keyboard",
+            "mass": 47.28
+        }
+    ]
+}

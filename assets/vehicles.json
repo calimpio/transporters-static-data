@@ -1,0 +1,175 @@
+{
+    "vehicles": [
+        {
+            "id": "0",
+            "name": "Antonov An-225 Mriya",
+            "type": "Airplane",
+            "speed_max": 850,
+            "charge_max": 250000,
+            "distance_max": 4000,
+            "price": 500000000.0
+        },
+        {
+            "id": "1",
+            "name": "Boeing 747-8 Freighter",
+            "type": "Airplane",
+            "speed_max": 917,
+            "charge_max": 116000,
+            "distance_max": 14800,
+            "price": 386000000.0
+        },
+        {
+            "id": "2",
+            "name": "Airbus A380-800F",
+            "type": "Airplane",
+            "speed_max": 900,
+            "charge_max": 116000,
+            "distance_max": 15700,
+            "price": 445000000.0
+        },
+        {
+            "id": "3",
+            "name": "Antonov An-124-100M",
+            "type": "Airplane",
+            "speed_max": 865,
+            "charge_max": 150000,
+            "distance_max": 15000,
+            "price": 200000000.0
+        },
+        {
+            "id": "4",
+            "name": "Lockheed C-5 Galaxy",
+            "type": "Airplane",
+            "speed_max": 980,
+            "charge_max": 118000,
+            "distance_max": 13000,
+            "price": 300000000.0
+        },
+        {
+            "id": "5",
+            "name": "Boeing 777F",
+            "type": "Airplane",
+            "speed_max": 907,
+            "charge_max": 103000,
+            "distance_max": 9000,
+            "price": 326000000.0
+        },
+        {
+            "id": "6",
+            "name": "Airbus A330-200F",
+            "type": "Airplane",
+            "speed_max": 880,
+            "charge_max": 65000,
+            "distance_max": 7200,
+            "price": 200000000.0
+        },
+        {
+            "id": "7",
+            "name": "Boeing 767-300F",
+            "type": "Airplane",
+            "speed_max": 852,
+            "charge_max": 58000,
+            "distance_max": 7500,
+            "price": 150000000.0
+        },
+        {
+            "id": "8",
+            "name": "McDonnell Douglas MD-11F",
+            "type": "Airplane",
+            "speed_max": 905,
+            "charge_max": 90000,
+            "distance_max": 9200,
+            "price": 50000000.0
+        },
+        {
+            "id": "9",
+            "name": "Ilyushin Il-76",
+            "type": "Airplane",
+            "speed_max": 850,
+            "charge_max": 50000,
+            "distance_max": 5000,
+            "price": 35000000.0
+        },
+        {
+            "id": "10",
+            "name": "Volvo FH16",
+            "type": "Truck",
+            "speed_max": 90,
+            "charge_max": 40000,
+            "distance_max": 1000,
+            "price": 150000.0
+        },
+        {
+            "id": "11",
+            "name": "Kenworth T680",
+            "type": "Truck",
+            "speed_max": 100,
+            "charge_max": 36000,
+            "distance_max": 1200,
+            "price": 120000.0
+        },
+        {
+            "id": "12",
+            "name": "Mack Anthem",
+            "type": "Truck",
+            "speed_max": 95,
+            "charge_max": 38000,
+            "distance_max": 1100,
+            "price": 135000.0
+        },
+        {
+            "id": "13",
+            "name": "Peterbilt 579",
+            "type": "Truck",
+            "speed_max": 105,
+            "charge_max": 42000,
+            "distance_max": 1300,
+            "price": 160000.0
+        },
+        {
+            "id": "14",
+            "name": "Freightliner Cascadia",
+            "type": "Truck",
+            "speed_max": 98,
+            "charge_max": 39000,
+            "distance_max": 1150,
+            "price": 145000.0
+        },
+        {
+            "id": "15",
+            "name": "International LT",
+            "type": "Truck",
+            "speed_max": 85,
+            "charge_max": 32000,
+            "distance_max": 900,
+            "price": 110000.0
+        },
+        {
+            "id": "16",
+            "name": "Western Star 49X",
+            "type": "Truck",
+            "speed_max": 102,
+            "charge_max": 41000,
+            "distance_max": 1250,
+            "price": 155000.0
+        },
+        {
+            "id": "17",
+            "name": "Scania R-Series",
+            "type": "Truck",
+            "speed_max": 92,
+            "charge_max": 37000,
+            "distance_max": 1100,
+            "price": 140000.0
+        },
+        {
+            "id": "18",
+            "name": "MAN TGX",
+            "type": "Truck",
+            "speed_max": 95,
+            "charge_max": 38000,
+            "distance_max": 1150,
+            "price": 130000.0
+        }
+    ]
+}
