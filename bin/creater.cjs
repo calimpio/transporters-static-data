@@ -129,7 +129,7 @@ fs.writeFileSync("./assets/vehiclesids.json", JSON.stringify(data))
 /** */
 
 
-/*** Gamedata */
+/*** Gamedata *
 const {vehicles} = require("../assets/vehiclesids.json")
 const {cities} = require("../assets/citiesids.json")
 const {resources} = require("../assets/resourcesids.json")
@@ -171,4 +171,21 @@ csv()
             fs.writeFileSync(`./assets/cities_${i}.json`, JSON.stringify({ cities: data, next: list.length - 1 > i ? i + 1 : null }))
         });
     })
+/** */
+
+/**countries *
+const { cities } = require("../assets/cities.json")
+
+data = cities.reduce((ac, c) => {
+    ac.coutries.push({
+        id: c.countryId,
+        name: c.country,
+        capitalId: c.id
+    })
+    return ac;
+}, { coutries: [] })
+
+
+
+fs.writeFileSync("./assets/countries.json", JSON.stringify(data))
 /** */

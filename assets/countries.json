@@ -1,0 +1,1259 @@
+{
+    "coutries": [
+        {
+            "id": "JP",
+            "name": "Japan",
+            "capitalId": "1392685764"
+        },
+        {
+            "id": "ID",
+            "name": "Indonesia",
+            "capitalId": "1360771077"
+        },
+        {
+            "id": "PH",
+            "name": "Philippines",
+            "capitalId": "1608618140"
+        },
+        {
+            "id": "KR",
+            "name": "Korea, South",
+            "capitalId": "1410836482"
+        },
+        {
+            "id": "MX",
+            "name": "Mexico",
+            "capitalId": "1484247881"
+        },
+        {
+            "id": "EG",
+            "name": "Egypt",
+            "capitalId": "1818253931"
+        },
+        {
+            "id": "BD",
+            "name": "Bangladesh",
+            "capitalId": "1050529279"
+        },
+        {
+            "id": "CN",
+            "name": "China",
+            "capitalId": "1156228865"
+        },
+        {
+            "id": "TH",
+            "name": "Thailand",
+            "capitalId": "1764068610"
+        },
+        {
+            "id": "RU",
+            "name": "Russia",
+            "capitalId": "1643318494"
+        },
+        {
+            "id": "AR",
+            "name": "Argentina",
+            "capitalId": "1032717330"
+        },
+        {
+            "id": "IR",
+            "name": "Iran",
+            "capitalId": "1364305026"
+        },
+        {
+            "id": "CD",
+            "name": "Congo (Kinshasa)",
+            "capitalId": "1180000363"
+        },
+        {
+            "id": "GB",
+            "name": "United Kingdom",
+            "capitalId": "1826645935"
+        },
+        {
+            "id": "FR",
+            "name": "France",
+            "capitalId": "1250015082"
+        },
+        {
+            "id": "PE",
+            "name": "Peru",
+            "capitalId": "1604728603"
+        },
+        {
+            "id": "AO",
+            "name": "Angola",
+            "capitalId": "1024949724"
+        },
+        {
+            "id": "MY",
+            "name": "Malaysia",
+            "capitalId": "1458988644"
+        },
+        {
+            "id": "VN",
+            "name": "Vietnam",
+            "capitalId": "1704413791"
+        },
+        {
+            "id": "CO",
+            "name": "Colombia",
+            "capitalId": "1170483426"
+        },
+        {
+            "id": "SD",
+            "name": "Sudan",
+            "capitalId": "1729268475"
+        },
+        {
+            "id": "HK",
+            "name": "Hong Kong",
+            "capitalId": "1344982653"
+        },
+        {
+            "id": "SA",
+            "name": "Saudi Arabia",
+            "capitalId": "1682999334"
+        },
+        {
+            "id": "CL",
+            "name": "Chile",
+            "capitalId": "1152554349"
+        },
+        {
+            "id": "ES",
+            "name": "Spain",
+            "capitalId": "1724616994"
+        },
+        {
+            "id": "IQ",
+            "name": "Iraq",
+            "capitalId": "1368596238"
+        },
+        {
+            "id": "SG",
+            "name": "Singapore",
+            "capitalId": "1702341327"
+        },
+        {
+            "id": "KE",
+            "name": "Kenya",
+            "capitalId": "1404000661"
+        },
+        {
+            "id": "TR",
+            "name": "Turkey",
+            "capitalId": "1792572891"
+        },
+        {
+            "id": "MM",
+            "name": "Burma",
+            "capitalId": "1104616656"
+        },
+        {
+            "id": "US",
+            "name": "United States",
+            "capitalId": "1840006060"
+        },
+        {
+            "id": "CI",
+            "name": "Côte d’Ivoire",
+            "capitalId": "1384207980"
+        },
+        {
+            "id": "DE",
+            "name": "Germany",
+            "capitalId": "1276451290"
+        },
+        {
+            "id": "ZA",
+            "name": "South Africa",
+            "capitalId": "1710680650"
+        },
+        {
+            "id": "AF",
+            "name": "Afghanistan",
+            "capitalId": "1004993580"
+        },
+        {
+            "id": "ML",
+            "name": "Mali",
+            "capitalId": "1466965925"
+        },
+        {
+            "id": "JO",
+            "name": "Jordan",
+            "capitalId": "1400522593"
+        },
+        {
+            "id": "NG",
+            "name": "Nigeria",
+            "capitalId": "1566342270"
+        },
+        {
+            "id": "DZ",
+            "name": "Algeria",
+            "capitalId": "1012973369"
+        },
+        {
+            "id": "GR",
+            "name": "Greece",
+            "capitalId": "1300715560"
+        },
+        {
+            "id": "ET",
+            "name": "Ethiopia",
+            "capitalId": "1231824991"
+        },
+        {
+            "id": "GT",
+            "name": "Guatemala",
+            "capitalId": "1320197916"
+        },
+        {
+            "id": "KW",
+            "name": "Kuwait",
+            "capitalId": "1414102075"
+        },
+        {
+            "id": "HU",
+            "name": "Hungary",
+            "capitalId": "1348611435"
+        },
+        {
+            "id": "YE",
+            "name": "Yemen",
+            "capitalId": "1887750814"
+        },
+        {
+            "id": "UZ",
+            "name": "Uzbekistan",
+            "capitalId": "1860331871"
+        },
+        {
+            "id": "UA",
+            "name": "Ukraine",
+            "capitalId": "1804382913"
+        },
+        {
+            "id": "BO",
+            "name": "Bolivia",
+            "capitalId": "1068000064"
+        },
+        {
+            "id": "KP",
+            "name": "Korea, North",
+            "capitalId": "1408738594"
+        },
+        {
+            "id": "BR",
+            "name": "Brazil",
+            "capitalId": "1076144436"
+        },
+        {
+            "id": "IT",
+            "name": "Italy",
+            "capitalId": "1380382862"
+        },
+        {
+            "id": "SO",
+            "name": "Somalia",
+            "capitalId": "1706893395"
+        },
+        {
+            "id": "TW",
+            "name": "Taiwan",
+            "capitalId": "1158881289"
+        },
+        {
+            "id": "SY",
+            "name": "Syria",
+            "capitalId": "1760685964"
+        },
+        {
+            "id": "ZM",
+            "name": "Zambia",
+            "capitalId": "1894157390"
+        },
+        {
+            "id": "BF",
+            "name": "Burkina Faso",
+            "capitalId": "1854029208"
+        },
+        {
+            "id": "CM",
+            "name": "Cameroon",
+            "capitalId": "1120298240"
+        },
+        {
+            "id": "LB",
+            "name": "Lebanon",
+            "capitalId": "1422847713"
+        },
+        {
+            "id": "RO",
+            "name": "Romania",
+            "capitalId": "1642414442"
+        },
+        {
+            "id": "GH",
+            "name": "Ghana",
+            "capitalId": "1288299415"
+        },
+        {
+            "id": "LK",
+            "name": "Sri Lanka",
+            "capitalId": "1144251314"
+        },
+        {
+            "id": "AZ",
+            "name": "Azerbaijan",
+            "capitalId": "1031946365"
+        },
+        {
+            "id": "MG",
+            "name": "Madagascar",
+            "capitalId": "1450978461"
+        },
+        {
+            "id": "VE",
+            "name": "Venezuela",
+            "capitalId": "1862748204"
+        },
+        {
+            "id": "AT",
+            "name": "Austria",
+            "capitalId": "1040261752"
+        },
+        {
+            "id": "ZW",
+            "name": "Zimbabwe",
+            "capitalId": "1716196799"
+        },
+        {
+            "id": "KH",
+            "name": "Cambodia",
+            "capitalId": "1116260534"
+        },
+        {
+            "id": "SE",
+            "name": "Sweden",
+            "capitalId": "1752425602"
+        },
+        {
+            "id": "CU",
+            "name": "Cuba",
+            "capitalId": "1192752771"
+        },
+        {
+            "id": "BY",
+            "name": "Belarus",
+            "capitalId": "1112348503"
+        },
+        {
+            "id": "PL",
+            "name": "Poland",
+            "capitalId": "1616024847"
+        },
+        {
+            "id": "PR",
+            "name": "Puerto Rico",
+            "capitalId": "1630035577"
+        },
+        {
+            "id": "EC",
+            "name": "Ecuador",
+            "capitalId": "1218441993"
+        },
+        {
+            "id": "CG",
+            "name": "Congo (Brazzaville)",
+            "capitalId": "1178340306"
+        },
+        {
+            "id": "UY",
+            "name": "Uruguay",
+            "capitalId": "1858107000"
+        },
+        {
+            "id": "HN",
+            "name": "Honduras",
+            "capitalId": "1340344059"
+        },
+        {
+            "id": "UG",
+            "name": "Uganda",
+            "capitalId": "1800406299"
+        },
+        {
+            "id": "GN",
+            "name": "Guinea",
+            "capitalId": "1324568159"
+        },
+        {
+            "id": "BG",
+            "name": "Bulgaria",
+            "capitalId": "1100762037"
+        },
+        {
+            "id": "CR",
+            "name": "Costa Rica",
+            "capitalId": "1188749877"
+        },
+        {
+            "id": "RW",
+            "name": "Rwanda",
+            "capitalId": "1646923541"
+        },
+        {
+            "id": "PA",
+            "name": "Panama",
+            "capitalId": "1591672475"
+        },
+        {
+            "id": "AE",
+            "name": "United Arab Emirates",
+            "capitalId": "1784176710"
+        },
+        {
+            "id": "NL",
+            "name": "Netherlands",
+            "capitalId": "1528355309"
+        },
+        {
+            "id": "SN",
+            "name": "Senegal",
+            "capitalId": "1686604760"
+        },
+        {
+            "id": "OM",
+            "name": "Oman",
+            "capitalId": "1512035506"
+        },
+        {
+            "id": "MN",
+            "name": "Mongolia",
+            "capitalId": "1496024767"
+        },
+        {
+            "id": "DK",
+            "name": "Denmark",
+            "capitalId": "1208763942"
+        },
+        {
+            "id": "FI",
+            "name": "Finland",
+            "capitalId": "1246177997"
+        },
+        {
+            "id": "CZ",
+            "name": "Czechia",
+            "capitalId": "1203744823"
+        },
+        {
+            "id": "IE",
+            "name": "Ireland",
+            "capitalId": "1372595407"
+        },
+        {
+            "id": "BE",
+            "name": "Belgium",
+            "capitalId": "1056469830"
+        },
+        {
+            "id": "RS",
+            "name": "Serbia",
+            "capitalId": "1688374696"
+        },
+        {
+            "id": "QA",
+            "name": "Qatar",
+            "capitalId": "1634459660"
+        },
+        {
+            "id": "LY",
+            "name": "Libya",
+            "capitalId": "1434201852"
+        },
+        {
+            "id": "MM",
+            "name": "Burma",
+            "capitalId": "1104838105"
+        },
+        {
+            "id": "BI",
+            "name": "Burundi",
+            "capitalId": "1108101689"
+        },
+        {
+            "id": "MZ",
+            "name": "Mozambique",
+            "capitalId": "1508074843"
+        },
+        {
+            "id": "DO",
+            "name": "Dominican Republic",
+            "capitalId": "1214636202"
+        },
+        {
+            "id": "KG",
+            "name": "Kyrgyzstan",
+            "capitalId": "1417191971"
+        },
+        {
+            "id": "GE",
+            "name": "Georgia",
+            "capitalId": "1268203191"
+        },
+        {
+            "id": "TD",
+            "name": "Chad",
+            "capitalId": "1148708596"
+        },
+        {
+            "id": "KZ",
+            "name": "Kazakhstan",
+            "capitalId": "1398516045"
+        },
+        {
+            "id": "MR",
+            "name": "Mauritania",
+            "capitalId": "1478414984"
+        },
+        {
+            "id": "AM",
+            "name": "Armenia",
+            "capitalId": "1051074169"
+        },
+        {
+            "id": "CA",
+            "name": "Canada",
+            "capitalId": "1124399363"
+        },
+        {
+            "id": "NO",
+            "name": "Norway",
+            "capitalId": "1578324706"
+        },
+        {
+            "id": "NI",
+            "name": "Nicaragua",
+            "capitalId": "1558296252"
+        },
+        {
+            "id": "TM",
+            "name": "Turkmenistan",
+            "capitalId": "1795049992"
+        },
+        {
+            "id": "NE",
+            "name": "Niger",
+            "capitalId": "1562932886"
+        },
+        {
+            "id": "LR",
+            "name": "Liberia",
+            "capitalId": "1430477826"
+        },
+        {
+            "id": "PK",
+            "name": "Pakistan",
+            "capitalId": "1586306717"
+        },
+        {
+            "id": "MW",
+            "name": "Malawi",
+            "capitalId": "1454688499"
+        },
+        {
+            "id": "HT",
+            "name": "Haiti",
+            "capitalId": "1332401940"
+        },
+        {
+            "id": "ER",
+            "name": "Eritrea",
+            "capitalId": "1232791236"
+        },
+        {
+            "id": "SL",
+            "name": "Sierra Leone",
+            "capitalId": "1694085071"
+        },
+        {
+            "id": "LA",
+            "name": "Laos",
+            "capitalId": "1418732714"
+        },
+        {
+            "id": "IL",
+            "name": "Israel",
+            "capitalId": "1376261644"
+        },
+        {
+            "id": "LV",
+            "name": "Latvia",
+            "capitalId": "1428586192"
+        },
+        {
+            "id": "CF",
+            "name": "Central African Republic",
+            "capitalId": "1140080881"
+        },
+        {
+            "id": "TJ",
+            "name": "Tajikistan",
+            "capitalId": "1762930616"
+        },
+        {
+            "id": "NP",
+            "name": "Nepal",
+            "capitalId": "1524589448"
+        },
+        {
+            "id": "GA",
+            "name": "Gabon",
+            "capitalId": "1266952885"
+        },
+        {
+            "id": "HR",
+            "name": "Croatia",
+            "capitalId": "1191233290"
+        },
+        {
+            "id": "ZA",
+            "name": "South Africa",
+            "capitalId": "1710176249"
+        },
+        {
+            "id": "LT",
+            "name": "Lithuania",
+            "capitalId": "1440887149"
+        },
+        {
+            "id": "MD",
+            "name": "Moldova",
+            "capitalId": "1498011437"
+        },
+        {
+            "id": "PG",
+            "name": "Papua New Guinea",
+            "capitalId": "1598685395"
+        },
+        {
+            "id": "BJ",
+            "name": "Benin",
+            "capitalId": "1204955174"
+        },
+        {
+            "id": "BH",
+            "name": "Bahrain",
+            "capitalId": "1048989486"
+        },
+        {
+            "id": "EE",
+            "name": "Estonia",
+            "capitalId": "1233260021"
+        },
+        {
+            "id": "DJ",
+            "name": "Djibouti",
+            "capitalId": "1262028958"
+        },
+        {
+            "id": "TN",
+            "name": "Tunisia",
+            "capitalId": "1788742103"
+        },
+        {
+            "id": "XG",
+            "name": "Gaza Strip",
+            "capitalId": "1916116052"
+        },
+        {
+            "id": "JM",
+            "name": "Jamaica",
+            "capitalId": "1388709177"
+        },
+        {
+            "id": "MA",
+            "name": "Morocco",
+            "capitalId": "1504023252"
+        },
+        {
+            "id": "PT",
+            "name": "Portugal",
+            "capitalId": "1620619017"
+        },
+        {
+            "id": "NL",
+            "name": "Netherlands",
+            "capitalId": "1528799905"
+        },
+        {
+            "id": "MK",
+            "name": "North Macedonia",
+            "capitalId": "1807600615"
+        },
+        {
+            "id": "GW",
+            "name": "Guinea-Bissau",
+            "capitalId": "1624168850"
+        },
+        {
+            "id": "MT",
+            "name": "Malta",
+            "capitalId": "1470574399"
+        },
+        {
+            "id": "PY",
+            "name": "Paraguay",
+            "capitalId": "1600057911"
+        },
+        {
+            "id": "SK",
+            "name": "Slovakia",
+            "capitalId": "1703195001"
+        },
+        {
+            "id": "SS",
+            "name": "South Sudan",
+            "capitalId": "1728444337"
+        },
+        {
+            "id": "NA",
+            "name": "Namibia",
+            "capitalId": "1516802003"
+        },
+        {
+            "id": "BA",
+            "name": "Bosnia and Herzegovina",
+            "capitalId": "1070966777"
+        },
+        {
+            "id": "AL",
+            "name": "Albania",
+            "capitalId": "1008162156"
+        },
+        {
+            "id": "GM",
+            "name": "Gambia, The",
+            "capitalId": "1270723713"
+        },
+        {
+            "id": "AU",
+            "name": "Australia",
+            "capitalId": "1036142029"
+        },
+        {
+            "id": "LS",
+            "name": "Lesotho",
+            "capitalId": "1426977668"
+        },
+        {
+            "id": "CY",
+            "name": "Cyprus",
+            "capitalId": "1196944155"
+        },
+        {
+            "id": "SV",
+            "name": "El Salvador",
+            "capitalId": "1222647454"
+        },
+        {
+            "id": "RE",
+            "name": "Reunion",
+            "capitalId": "1638024662"
+        },
+        {
+            "id": "BO",
+            "name": "Bolivia",
+            "capitalId": "1068823873"
+        },
+        {
+            "id": "GQ",
+            "name": "Equatorial Guinea",
+            "capitalId": "1226861333"
+        },
+        {
+            "id": "SI",
+            "name": "Slovenia",
+            "capitalId": "1705917455"
+        },
+        {
+            "id": "BS",
+            "name": "Bahamas, The",
+            "capitalId": "1044318561"
+        },
+        {
+            "id": "ZA",
+            "name": "South Africa",
+            "capitalId": "1710495933"
+        },
+        {
+            "id": "MQ",
+            "name": "Martinique",
+            "capitalId": "1474969110"
+        },
+        {
+            "id": "IN",
+            "name": "India",
+            "capitalId": "1356215164"
+        },
+        {
+            "id": "BW",
+            "name": "Botswana",
+            "capitalId": "1072756768"
+        },
+        {
+            "id": "SR",
+            "name": "Suriname",
+            "capitalId": "1740518660"
+        },
+        {
+            "id": "TL",
+            "name": "Timor-Leste",
+            "capitalId": "1626308942"
+        },
+        {
+            "id": "NZ",
+            "name": "New Zealand",
+            "capitalId": "1554772152"
+        },
+        {
+            "id": "GY",
+            "name": "Guyana",
+            "capitalId": "1328160906"
+        },
+        {
+            "id": "XK",
+            "name": "Kosovo",
+            "capitalId": "1901760068"
+        },
+        {
+            "id": "FJ",
+            "name": "Fiji",
+            "capitalId": "1242615095"
+        },
+        {
+            "id": "NC",
+            "name": "New Caledonia",
+            "capitalId": "1540958092"
+        },
+        {
+            "id": "ME",
+            "name": "Montenegro",
+            "capitalId": "1499454516"
+        },
+        {
+            "id": "CW",
+            "name": "Curaçao",
+            "capitalId": "1531000000"
+        },
+        {
+            "id": "MU",
+            "name": "Mauritius",
+            "capitalId": "1480131261"
+        },
+        {
+            "id": "IS",
+            "name": "Iceland",
+            "capitalId": "1352327190"
+        },
+        {
+            "id": "BI",
+            "name": "Burundi",
+            "capitalId": "1108778000"
+        },
+        {
+            "id": "CH",
+            "name": "Switzerland",
+            "capitalId": "1756374318"
+        },
+        {
+            "id": "BJ",
+            "name": "Benin",
+            "capitalId": "1204172060"
+        },
+        {
+            "id": "MV",
+            "name": "Maldives",
+            "capitalId": "1462441685"
+        },
+        {
+            "id": "LU",
+            "name": "Luxembourg",
+            "capitalId": "1442262731"
+        },
+        {
+            "id": "PF",
+            "name": "French Polynesia",
+            "capitalId": "1258907380"
+        },
+        {
+            "id": "LK",
+            "name": "Sri Lanka",
+            "capitalId": "1144239330"
+        },
+        {
+            "id": "BT",
+            "name": "Bhutan",
+            "capitalId": "1064010361"
+        },
+        {
+            "id": "BB",
+            "name": "Barbados",
+            "capitalId": "1052274244"
+        },
+        {
+            "id": "SB",
+            "name": "Solomon Islands",
+            "capitalId": "1090737486"
+        },
+        {
+            "id": "TT",
+            "name": "Trinidad and Tobago",
+            "capitalId": "1780670676"
+        },
+        {
+            "id": "YT",
+            "name": "Mayotte",
+            "capitalId": "1175099654"
+        },
+        {
+            "id": "LC",
+            "name": "Saint Lucia",
+            "capitalId": "1662922505"
+        },
+        {
+            "id": "MY",
+            "name": "Malaysia",
+            "capitalId": "1458000206"
+        },
+        {
+            "id": "ST",
+            "name": "Sao Tome and Principe",
+            "capitalId": "1678301324"
+        },
+        {
+            "id": "CV",
+            "name": "Cabo Verde",
+            "capitalId": "1132398770"
+        },
+        {
+            "id": "GF",
+            "name": "French Guiana",
+            "capitalId": "1254304969"
+        },
+        {
+            "id": "SZ",
+            "name": "Eswatini",
+            "capitalId": "1748811945"
+        },
+        {
+            "id": "BN",
+            "name": "Brunei",
+            "capitalId": "1096465895"
+        },
+        {
+            "id": "VU",
+            "name": "Vanuatu",
+            "capitalId": "1548805075"
+        },
+        {
+            "id": "TZ",
+            "name": "Tanzania",
+            "capitalId": "1834288497"
+        },
+        {
+            "id": "WS",
+            "name": "Samoa",
+            "capitalId": "1882489296"
+        },
+        {
+            "id": "CI",
+            "name": "Côte d’Ivoire",
+            "capitalId": "1384683557"
+        },
+        {
+            "id": "MC",
+            "name": "Monaco",
+            "capitalId": "1492854256"
+        },
+        {
+            "id": "AW",
+            "name": "Aruba",
+            "capitalId": "1533513057"
+        },
+        {
+            "id": "GI",
+            "name": "Gibraltar",
+            "capitalId": "1292385245"
+        },
+        {
+            "id": "JE",
+            "name": "Jersey",
+            "capitalId": "1832490253"
+        },
+        {
+            "id": "TG",
+            "name": "Togo",
+            "capitalId": "1768409132"
+        },
+        {
+            "id": "MH",
+            "name": "Marshall Islands",
+            "capitalId": "1584000000"
+        },
+        {
+            "id": "KI",
+            "name": "Kiribati",
+            "capitalId": "1296152641"
+        },
+        {
+            "id": "IM",
+            "name": "Isle of Man",
+            "capitalId": "1833688345"
+        },
+        {
+            "id": "KY",
+            "name": "Cayman Islands",
+            "capitalId": "1136159124"
+        },
+        {
+            "id": "SC",
+            "name": "Seychelles",
+            "capitalId": "1690193579"
+        },
+        {
+            "id": "TO",
+            "name": "Tonga",
+            "capitalId": "1776737461"
+        },
+        {
+            "id": "AD",
+            "name": "Andorra",
+            "capitalId": "1020828846"
+        },
+        {
+            "id": "AG",
+            "name": "Antigua and Barbuda",
+            "capitalId": "1028912067"
+        },
+        {
+            "id": "GG",
+            "name": "Guernsey",
+            "capitalId": "1831991870"
+        },
+        {
+            "id": "GL",
+            "name": "Greenland",
+            "capitalId": "1304028354"
+        },
+        {
+            "id": "KM",
+            "name": "Comoros",
+            "capitalId": "1174793581"
+        },
+        {
+            "id": "BZ",
+            "name": "Belize",
+            "capitalId": "1084586375"
+        },
+        {
+            "id": "DM",
+            "name": "Dominica",
+            "capitalId": "1212060440"
+        },
+        {
+            "id": "VC",
+            "name": "Saint Vincent and the Grenadines",
+            "capitalId": "1670376659"
+        },
+        {
+            "id": "FO",
+            "name": "Faroe Islands",
+            "capitalId": "1234904517"
+        },
+        {
+            "id": "KN",
+            "name": "Saint Kitts and Nevis",
+            "capitalId": "1659198919"
+        },
+        {
+            "id": "VG",
+            "name": "Virgin Islands, British",
+            "capitalId": "1092732412"
+        },
+        {
+            "id": "AS",
+            "name": "American Samoa",
+            "capitalId": "1016976740"
+        },
+        {
+            "id": "FM",
+            "name": "Micronesia, Federated States of",
+            "capitalId": "1583008885"
+        },
+        {
+            "id": "TV",
+            "name": "Tuvalu",
+            "capitalId": "1798251391"
+        },
+        {
+            "id": "SZ",
+            "name": "Eswatini",
+            "capitalId": "1748963140"
+        },
+        {
+            "id": "MF",
+            "name": "Saint Martin",
+            "capitalId": "1663133172"
+        },
+        {
+            "id": "LI",
+            "name": "Liechtenstein",
+            "capitalId": "1438317747"
+        },
+        {
+            "id": "PM",
+            "name": "Saint Pierre and Miquelon",
+            "capitalId": "1666340272"
+        },
+        {
+            "id": "GD",
+            "name": "Grenada",
+            "capitalId": "1308891766"
+        },
+        {
+            "id": "SM",
+            "name": "San Marino",
+            "capitalId": "1674741947"
+        },
+        {
+            "id": "CK",
+            "name": "Cook Islands",
+            "capitalId": "1184217570"
+        },
+        {
+            "id": "TC",
+            "name": "Turks and Caicos Islands",
+            "capitalId": "1796965313"
+        },
+        {
+            "id": "AI",
+            "name": "Anguilla",
+            "capitalId": "1660698387"
+        },
+        {
+            "id": "MA",
+            "name": "Morocco",
+            "capitalId": "1504999990"
+        },
+        {
+            "id": "MP",
+            "name": "Northern Mariana Islands",
+            "capitalId": "1580556972"
+        },
+        {
+            "id": "BL",
+            "name": "Saint Barthelemy",
+            "capitalId": "1652681565"
+        },
+        {
+            "id": "FK",
+            "name": "Falkland Islands (Islas Malvinas)",
+            "capitalId": "1238780509"
+        },
+        {
+            "id": "SX",
+            "name": "Sint Maarten",
+            "capitalId": "1534859858"
+        },
+        {
+            "id": "XR",
+            "name": "Svalbard",
+            "capitalId": "1930654114"
+        },
+        {
+            "id": "CX",
+            "name": "Christmas Island",
+            "capitalId": "1162889600"
+        },
+        {
+            "id": "GU",
+            "name": "Guam",
+            "capitalId": "1316937540"
+        },
+        {
+            "id": "WF",
+            "name": "Wallis and Futuna",
+            "capitalId": "1876784844"
+        },
+        {
+            "id": "BM",
+            "name": "Bermuda",
+            "capitalId": "1060000000"
+        },
+        {
+            "id": "VA",
+            "name": "Vatican City",
+            "capitalId": "1336000000"
+        },
+        {
+            "id": "NR",
+            "name": "Nauru",
+            "capitalId": "1520790128"
+        },
+        {
+            "id": "SH",
+            "name": "Saint Helena, Ascension, and Tristan da Cunha",
+            "capitalId": "1654761576"
+        },
+        {
+            "id": "NU",
+            "name": "Niue",
+            "capitalId": "1570882835"
+        },
+        {
+            "id": "MS",
+            "name": "Montserrat",
+            "capitalId": "1500971198"
+        },
+        {
+            "id": "NF",
+            "name": "Norfolk Island",
+            "capitalId": "1574121434"
+        },
+        {
+            "id": "GP",
+            "name": "Guadeloupe",
+            "capitalId": "1312938008"
+        },
+        {
+            "id": "PW",
+            "name": "Palau",
+            "capitalId": "1585525081"
+        },
+        {
+            "id": "PN",
+            "name": "Pitcairn Islands",
+            "capitalId": "1612000000"
+        },
+        {
+            "id": "MS",
+            "name": "Montserrat",
+            "capitalId": "1500711935"
+        },
+        {
+            "id": "GS",
+            "name": "South Georgia And South Sandwich Islands",
+            "capitalId": "1239048838"
+        },
+        {
+            "id": "VI",
+            "name": "U.S. Virgin Islands",
+            "capitalId": "1850037473"
+        }
+    ]
+}
