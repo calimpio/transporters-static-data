@@ -138,3 +138,37 @@ const {companies} = require("../assets/companiesids.json")
 data = {vehicles, cities, resources, companies }
 
 fs.writeFileSync("./assets/gamedataids.json", JSON.stringify(data))
+/** */
+
+/** Packages *
+const csvFilePath = './assets/worldcities.csv'
+const csv = require('csvtojson')
+csv()
+    .fromFile(csvFilePath)
+    .then((data2) => {
+
+        data2.reduce((ac, c) => {
+            if (c.capital == "primary") {
+                ac.push({
+                    id: c.id,
+                    name: c.name,
+                    lat: Number(c.lat),
+                    lon: Number(c.lon),
+                    pop: Number(c.pop),
+                    countryId: c.iso2,
+                    country: c.country,
+                })
+            }
+            return ac;
+        }, []).reduce((ac, m) => {
+            if (ac[ac.length - 1].length >= 63) {
+                ac.push([]);
+            } else
+                ac[ac.length - 1].push(m);
+            return ac;
+
+        }, [[]]).forEach((data, i, list) => {
+            fs.writeFileSync(`./assets/cities_${i}.json`, JSON.stringify({ cities: data, next: list.length - 1 > i ? i + 1 : null }))
+        });
+    })
+/** */

@@ -12,6 +12,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "csvtojson": "^2.0.10",
     "fs": "^0.0.1-security",
     "transporter": "file:",
     "uuid": "^11.0.3"
